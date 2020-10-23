@@ -1,0 +1,16 @@
+PODS:
+  - alipay2ios (0.1.0)
+
+DEPENDENCIES:
+  - alipay2ios (from `../`)
+
+EXTERNAL SOURCES:
+  alipay2ios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  alipay2ios: fcff84587cf962038903d636576baa9fbf42c079
+
+PODFILE CHECKSUM: 507a1ef35ac53e1986209aa65e8e374fac99b4e3
+
+COCOAPODS: 1.8.4

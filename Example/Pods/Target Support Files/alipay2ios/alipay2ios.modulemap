@@ -1,0 +1,6 @@
+framework module alipay2ios {
+  umbrella header "alipay2ios-umbrella.h"
+
+  export *
+  module * { export * }
+}

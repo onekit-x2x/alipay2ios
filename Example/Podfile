@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'alipay2ios_Example' do
+  pod 'alipay2ios', :path => '../'
+
+  target 'alipay2ios_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

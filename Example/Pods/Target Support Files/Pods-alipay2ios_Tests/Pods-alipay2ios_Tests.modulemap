@@ -1,0 +1,6 @@
+framework module Pods_alipay2ios_Tests {
+  umbrella header "Pods-alipay2ios_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
